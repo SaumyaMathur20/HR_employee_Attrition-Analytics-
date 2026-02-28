@@ -150,8 +150,11 @@ Support data-driven HR decision-making
 
 ### 📂 Repository Structure
  ├── HR_Employee_Attrition.csv
+ 
  ├── HR_Attrition_Dashboard.pbix
+ 
  ├── SQL_Scripts.sql
 
  └── README.md
+
 
