@@ -1,6 +1,11 @@
 # 📊 HR Employee Attrition Analysis
     SQL + Power BI Project
 
+# Dashboard Preview
+
+<img width="848" height="479" alt="DASHBOARD" src="https://github.com/user-attachments/assets/360235f7-2606-4ee5-9afb-a98a2364dfb5" />
+
+
 ## 🔎 Project Overview
 
 This project analyzes employee attrition trends using SQL for data preparation and Power BI for interactive dashboarding.
@@ -138,4 +143,5 @@ Support data-driven HR decision-making
  ├── HR_Employee_Attrition.csv
  ├── HR_Attrition_Dashboard.pbix
  ├── SQL_Scripts.sql
+
  └── README.md
