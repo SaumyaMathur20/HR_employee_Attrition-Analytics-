@@ -115,6 +115,15 @@ Clustered Column Chart → Attrition by Marital Status
 Clustered Bar Chart → Attrition by Age
 Area Line Chart → Attrition Count by Distance from Home
 
+## 📱 Mobile View
+
+* Designed a dedicated mobile layout in Power BI
+* Optimized visuals for vertical scrolling format
+* Prioritized KPI cards for quick decision-making
+* Ensured readability for smaller screens
+
+The dashboard is fully accessible on Power BI mobile layout for on-the-go monitoring.
+
 ## 📌 Key Insights
 
 Attrition is higher in specific departments and job roles.
@@ -145,3 +154,4 @@ Support data-driven HR decision-making
  ├── SQL_Scripts.sql
 
  └── README.md
+
